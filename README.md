@@ -30,19 +30,6 @@ This repository was created with the intention of helping developers master thei
 18. **[Print Star console using Loop](#18-Print-Star-console-using-Loop)**
 19. **[While loop Program in java](#19-While-loop-Program-in-java)**
 20. **[Print Reverse number in java program](#20-Print-Reverse-number-in-java-program)**
-21. **[Closures](#21-closures)**
-22. **[High Order Functions](#22-high-order-functions)**
-23. **[Recursion](#23-recursion)**
-24. **[Collections and Generators](#24-collections-and-generators)**
-25. **[Promises](#25-promises)**
-26. **[async/await](#26-asyncawait)**
-27. **[Data Structures](#27-data-structures)**
-28. **[Expensive Operation and Big O Notation](#28-expensive-operation-and-big-o-notation)**
-29. **[Algorithms](#29-algorithms)**
-30. **[Inheritance, Polymorphism and Code Reuse](#30-inheritance-polymorphism-and-code-reuse)**
-31. **[Design Patterns](#31-design-patterns)**
-32. **[Partial Applications, Currying, Compose and Pipe](#32-partial-applications-currying-compose-and-pipe)**
-33. **[Clean Code](#33-clean-code)**
 
 ---
 
