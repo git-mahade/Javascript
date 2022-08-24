@@ -20,7 +20,7 @@ This repository was created with the intention of helping developers master thei
 8. **[How to add two number Program in javaScript](#8-How-to-add-two-number-Program-in-javaScript)**
 9. **[Find Largest no in javaScript Program](#9-Find-Largest-no-in-javaScript-Program)**
 10. **[If Else clause in javaScript](#10-If-Else-clause-in-javaScript)**
-11. **[If Else clause in java- Program 2](#11-If-Else-clause-in-java-Program-2)**
+11. **[If Else clause in java Program 2](#11-If-Else-clause-in-java-Program 2)**
 12. **[Nested If Else clause in java](#12-Nested-If-Else-clause-in-java)**
 13. **[How to check Odd and Even Number in java](#13-How-to-check-Odd-and-Even-Number-in-java)**
 14. **[Find factorial for given no Program in Java](#14-Find-factorial-for-given-no-Program-in-Java)**
@@ -107,7 +107,7 @@ This repository was created with the intention of helping developers master thei
 
 ---
 
-## 11. If Else clause in java- Program 2
+## 11. If Else clause in java Program 2
 
 
 **[⬆ Back to Top](#table-of-contents)**
