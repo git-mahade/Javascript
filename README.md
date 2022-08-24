@@ -14,12 +14,12 @@ This repository was created with the intention of helping developers master thei
 2. **[Print Integer in javaScript](#2-print-integer-in-javascript)**
 3. **[Command Line Argument in javaScript](#3-Command-Line-Argument-in-javaScript)**
 4. **[How to get Using input using Scanner Program in javaScript](#4-How-to-get-Using-input-using-Scanner-Program-in-javaScript)**
-5. **[== vs === vs typeof](#5--vs--vs-typeof)**
-6. **[Function Scope, Block Scope and Lexical Scope](#6-function-scope-block-scope-and-lexical-scope)**
-7. **[Expression vs Statement](#7-expression-vs-statement)**
-8. **[IIFE, Modules and Namespaces](#8-iife-modules-and-namespaces)**
-9. **[Message Queue and Event Loop](#9-message-queue-and-event-loop)**
-10. **[setTimeout, setInterval and requestAnimationFrame](#10-settimeout-setinterval-and-requestanimationframe)**
+5. **[How to convert Fahrenheit to Celsius Program in javaScript](#5-How-to-convert-Fahrenheit-to-Celsius-Program-in-javaScript)**
+6. **[How to swap 2 no using 3rd variable Program in javaScript](#6-How-to-swap-2-no-using-3rd-variable-Program-in-javaScript)**
+7. **[How to swap 2 no without using 3rd variable Program in javaScript](#7-How-to-swap-2-no-without-using-3rd-variable-Program-in-javaScript)**
+8. **[How to add two number Program in javaScript](#8-How-to-add-two-number-Program-in-javaScript)**
+9. **[Find Largest no in javaScript Program](#9-Find-Largest-no-in-javaScript-Program)**
+10. **[If Else clause in javaScript](#10-If-Else-clause-in-javaScript)**
 11. **[JavaScript Engines](#11-javascript-engines)**
 12. **[Bitwise Operators, Type Arrays and Array Buffers](#12-bitwise-operators-type-arrays-and-array-buffers)**
 13. **[DOM and Layout Trees](#13-dom-and-layout-trees)**
@@ -71,6 +71,37 @@ This repository was created with the intention of helping developers master thei
 ---
 
 ## 5. How to convert Fahrenheit to Celsius Program in javaScript
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 6. How to swap 2 no using 3rd variable Program in javaScript
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 7. How to swap 2 no without using 3rd variable Program in javaScript
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 8. How to add two number Program in javaScript
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 9. Find Largest no in javaScript Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 10. If Else clause in javaScript
+
 
 **[⬆ Back to Top](#table-of-contents)**
 
