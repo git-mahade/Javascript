@@ -13,6 +13,7 @@ This repository was created with the intention of helping developers master thei
 1. **[Simple JavaScript Program](#1-simple-javascript-program)**
 2. **[Print Integer in javaScript](#2-print-integer-in-javascript)**
 3. **[Command Line Argument in javaScript](#3-Command-Line-Argument-in-javaScript)**
+4. **[How to get Using input using Scanner Program in javaScript](#4-How-to-get-Using-input-using-ScannerProgram-in-javaScript)**
 
 ---
 
@@ -29,6 +30,12 @@ This repository was created with the intention of helping developers master thei
 ---
 
 ## 3. Command Line Argument in javaScript
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 4. How to get Using input using Scanner Program in javaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
