@@ -59,7 +59,7 @@ This repository was created with the intention of helping developers master thei
 47. **[How to create constructor in JavaScript Program](#47-How-to-create-constructor-in-JavaScript-Program)**
 48. **[How to create constructor overloading in JavaScript Program](#48-How-to-create-constructor-overloading-in-JavaScript-Program)**
 49. **[Exception Handling JavaScript Program](#49-Exception-Handling-JavaScript-Program)**
-50. **[How to throw exception in java Program](#50-How-to-throw-exception-in-java-Program)**
+50. **[How to throw exception in JavaScript Program](#50-How-to-throw-exception-in-JavaScript-Program)**
 51. **[Advantage of Finally in Exception Handling JavaScript Program](#51-Advantage-of-Finally-in-Exception-Handling-JavaScript-Program)**
 52. **[How to create Interface in JavaScript Program](#52-How-to-create-Interface-in-JavaScript-Program)**
 53. **[How to print date and time in JavaScript Program](#53-How-to-print-date-and-time-in-JavaScript-Program)**
@@ -82,33 +82,34 @@ This repository was created with the intention of helping developers master thei
 70. **[How to join thread in JavaScript program](#70-How-to-join-thread-in-JavaScript-program)**
 71. **[How to write data in text file using JavaScript program](#71-How-to-write-data-in-text-file-using-JavaScript-program)**
 72. **[How to read data from text file using JavaScript program](#72-How-to-read-data-from-text-file-using-JavaScript-program)**
-73. **[How to get URL of site using java Programs](#73-How-to-get-URL-of-site-using-java-Programs)**
-74. **[How to get IP address from site URL using java program](#74-How-to-get-IP-address-from-site-URL-using-java-program)**
-75. **[How to create AWT program in java](#75-How-to-create-AWT-program-in-java)**
-76. **[How to add lable in AWT program in java](#76-How-to-add-lable-in-AWT-program-in-java)**
-77. **[How to add text area program in java](#77-How-to-add-text-area-program-in-java)**
-78. **[How to dropdown in AWT program in java](#78-How-to-dropdown-in-AWT-program-in-java)**
-79. **[How to create Swing program in java](#79-How-to-create-Swing-program-in-java)**
-80. **[How to add checkbox in Swing program in java](#80-How-to-add-checkbox-in-Swing-program-in-java)**
-81. **[How to convert string to integer in java program](#81-How-to-convert-string-to-integer-in-java-program)**
-82. **[How to convert integer to string in java program](#82-How-to-convert-integer-to-string-in-java-program)**
-83. **[How to convert string to long in java](#83-How-to-convert-string-to-long-in-java)**
-84. **[How to convert string to float in java](#84-How-to-convert-string-to-float-in-java)**
-85. **[How to convert string to double in java program](#85-How-to-convert-string-to-double-in-java-program)**
-86. **[How to convert string to date in java program](#86-How-to-convert-string-to-date-in-java-program)**
-87. **[Create ArrayList program in java](#87-Create-ArrayList-program-in-java)**
-88. **[How to create LinkedList program in java](#88-How-to-create-LinkedList-program-in-java)**
-89. **[How to ArrayList using list interface program in java](#89-How-to-ArrayList-using-list-interface-program-in-java)**
-90. **[How to create Hashset program in java](#90-How-to-create-Hashset-program-in-java)**
-91. **[How to create LinkedHashSet program in java](#91-How-to-create-LinkedHashSet-program-in-java)**
-92. **[How to create TreeSet program in java](#92-How-to-create-TreeSet-program-in-java)**
-93. **[How to create PriorityQueue program in java](#93-How-to-create-PriorityQueue-program-in-java)**
-94. **[How to create HashMap using map interface program in java](#94-How-to-create-HashMap-using-map-interface-program-in-java)**
-95. **[How to create LinkedHashMap program in java](#95-How-to-create-LinkedHashMap-program-in-java)**
-96. **[How to create TreeMap program in java](#96-How-to-create-TreeMap-program-in-java)**
-97. **[How to create Hashtable program in java](#97-How-to-create-Hashtable-program-in-java)**
-98. **[How to create Array program in java](#98-How-to-create-Array-program-in-java)**
-99. **[How to create Multidimensional array program in java](#99-How-to-create-Multidimensional-array-program-in-java)**
+73. **[How to get URL of site using JavaScript Programs](#73-How-to-get-URL-of-site-using-JavaScript-Programs)**
+74. **[How to get IP address from site URL using JavaScript program](#74-How-to-get-IP-address-from-site-URL-using-JavaScript-program)**
+75. **[How to create AWT program in JavaScript](#75-How-to-create-AWT-program-in-JavaScript)**
+76. **[How to add lable in AWT program in JavaScript](#76-How-to-add-lable-in-AWT-program-in-JavaScript)**
+77. **[How to add text area program in JavaScript](#77-How-to-add-text-area-program-in-JavaScript)**
+78. **[How to dropdown in AWT program in JavaScript](#78-How-to-dropdown-in-AWT-program-in-JavaScript)**
+79. **[How to create Swing program in JavaScript](#79-How-to-create-Swing-program-in-JavaScript)**
+80. **[How to add checkbox in Swing program in JavaScript](#80-How-to-add-checkbox-in-Swing-program-in-JavaScript)**
+81. **[How to convert string to integer in JavaScript program](#81-How-to-convert-string-to-integer-in-JavaScript-program)**
+82. **[How to convert integer to string in JavaScript program](#82-How-to-convert-integer-to-string-in-JavaScript-program)**
+83. **[How to convert string to long in JavaScript](#83-How-to-convert-string-to-long-in-JavaScript)**
+84. **[How to convert string to float in JavaScript](#84-How-to-convert-string-to-float-in-JavaScript)**
+85. **[How to convert string to double in JavaScript program](#85-How-to-convert-string-to-double-in-JavaScript-program)**
+86. **[How to convert string to date in JavaScript program](#86-How-to-convert-string-to-date-in-JavaScript-program)**
+87. **[Create ArrayList program in JavaScript](#87-Create-ArrayList-program-in-JavaScript)**
+88. **[How to create LinkedList program in JavaScript](#88-How-to-create-LinkedList-program-in-JavaScript)**
+89. **[How to ArrayList using list interface program in JavaScript](#89-How-to-ArrayList-using-list-interface-program-in-JavaScript)**
+90. **[How to create Hashset program in JavaScript](#90-How-to-create-Hashset-program-in-JavaScript)**
+91. **[How to create LinkedHashSet program in JavaScript](#91-How-to-create-LinkedHashSet-program-in-JavaScript)**
+92. **[How to create TreeSet program in JavaScript](#92-How-to-create-TreeSet-program-in-JavaScript)**
+93. **[How to create PriorityQueue program in JavaScript](#93-How-to-create-PriorityQueue-program-in-JavaScript)**
+94. **[How to create HashMap using map interface program in JavaScript](#94-How-to-create-HashMap-using-map-interface-program-in-JavaScript)**
+95. **[How to create LinkedHashMap program in JavaScript](#95-How-to-create-LinkedHashMap-program-in-JavaScript)**
+96. **[How to create TreeMap program in JavaScript](#96-How-to-create-TreeMap-program-in-JavaScript)**
+97. **[How to create Hashtable program in JavaScript](#97-How-to-create-Hashtable-program-in-JavaScript)**
+98. **[How to create Array program in JavaScript](#98-How-to-create-Array-program-in-JavaScript)**
+99. **[How to create Multidimensional array program in JavaScript](#99-How-to-create-Multidimensional-array-program-in-JavaScript)**
+100. **[How to create Method Overriding program in JavaScript](#100-How-to-create-Method-Overriding-program-in-JavaScript)**
 
 ---
 
@@ -406,7 +407,7 @@ This repository was created with the intention of helping developers master thei
 
 ---
 
-## 50. How to throw exception in java Program
+## 50. How to throw exception in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -544,163 +545,169 @@ This repository was created with the intention of helping developers master thei
 
 ---
 
-## 73. How to get URL of site using java Programs
+## 73. How to get URL of site using JavaScript Programs
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 74. How to get IP address from site URL using java program
+## 74. How to get IP address from site URL using JavaScript program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 75. How to create AWT program in java
+## 75. How to create AWT program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 76. How to add lable in AWT program in java
+## 76. How to add lable in AWT program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 77. How to add text area program in java
+## 77. How to add text area program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 78. How to dropdown in AWT program in java
+## 78. How to dropdown in AWT program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 79. How to create Swing program in java
+## 79. How to create Swing program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 80. How to add checkbox in Swing program in java
+## 80. How to add checkbox in Swing program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 81. How to convert string to integer in java program
+## 81. How to convert string to integer in JavaScript program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 82. How to convert integer to string in java program
+## 82. How to convert integer to string in JavaScript program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 83. How to convert string to long in java
+## 83. How to convert string to long in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 84. How to convert string to float in java
+## 84. How to convert string to float in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 85. How to convert string to double in java program
+## 85. How to convert string to double in JavaScript program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 86. How to convert string to date in java program
+## 86. How to convert string to date in JavaScript program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 87. Create ArrayList program in java
+## 87. Create ArrayList program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 88. How to create LinkedList program in java
+## 88. How to create LinkedList program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 89. How to ArrayList using list interface program in java
+## 89. How to ArrayList using list interface program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 90. How to create Hashset program in java
+## 90. How to create Hashset program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 91. How to create LinkedHashSet program in java
+## 91. How to create LinkedHashSet program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 92. How to create TreeSet program in java
+## 92. How to create TreeSet program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 93. How to create PriorityQueue program in java
+## 93. How to create PriorityQueue program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 94. How to create HashMap using map interface program in java
+## 94. How to create HashMap using map interface program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 95. How to create LinkedHashMap program in java
+## 95. How to create LinkedHashMap program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 96. How to create TreeMap program in java
+## 96. How to create TreeMap program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 97. How to create Hashtable program in java
+## 97. How to create Hashtable program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 98. How to create Array program in java
+## 98. How to create Array program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 99. How to create Multidimensional array program in java
+## 99. How to create Multidimensional array program in JavaScript
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 100. How to create Method Overriding program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
