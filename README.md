@@ -40,19 +40,7 @@ This repository was created with the intention of helping developers master thei
 28. **[Print Floyd’s Triangle in java Program](#28-Print-Floyd’s-Triangle-in-java-Program)**
 29. **[Find All substring of string in java Program](#29-Find-All-substring-of-string-in-java-Program)**
 30. **[Print reverse string in java Program](#30-Print-reverse-string-in-java-Program)**
-31. **[Closures](#21-closures)**
-32. **[High Order Functions](#22-high-order-functions)**
-33. **[Recursion](#23-recursion)**
-34. **[Collections and Generators](#24-collections-and-generators)**
-35. **[Promises](#25-promises)**
-36. **[async/await](#26-asyncawait)**
-37. **[Data Structures](#27-data-structures)**
-38. **[Expensive Operation and Big O Notation](#28-expensive-operation-and-big-o-notation)**
-39. **[Algorithms](#29-algorithms)**
-40. **[Inheritance, Polymorphism and Code Reuse](#30-inheritance-polymorphism-and-code-reuse)**
-41. **[Design Patterns](#31-design-patterns)**
-42. **[Partial Applications, Currying, Compose and Pipe](#32-partial-applications-currying-compose-and-pipe)**
-43. **[Clean Code](#33-clean-code)**
+
 
 ---
 
