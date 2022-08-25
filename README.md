@@ -59,17 +59,23 @@ This repository was created with the intention of helping developers master thei
 47. **[How to create constructor in java Program](#47-How-to-create-constructor-in-java-Program)**
 48. **[How to create constructor overloading in java Program](#48-How-to-create-constructor-overloading-in-java-Program)**
 49. **[Exception Handling java Program](#49-Exception-Handling-java-Program)**
-51. **[Advantage of Finally in Exception Handling java Program](#51-Advantage-of-Finally-in-Exception-Handling-java-Program)**
-52. **[How to create Interface in java Program](#52-How-to-create-Interface-in-java-Program)**
-53. **[How to print date and time in java Program](#53-How-to-print-date-and-time-in-java-Program)**
-54. **[How to SQL Date in java Program](#54-How-to-SQL-Date-in-java-Program)**
-55. **[How to Date format in java Program](#55-How-to-Date-format-in-java-Program)**
-56. **[How to Generate random number in java Program](#56-How-to-Generate-random-number-in-java-Program)**
-57. **[How perform garbage collection in java Program](#57-How-perform-garbage-collection-in-java-Program)**
-58. **[How to get own IP Address in java Program](#58-How-to-get-own-IP-Address-in-java-Program)**
-59. **[How to open notepad in java Program](#59-How-to-open-notepad-in-java-Program)**
-60. **[Leaner search Program in java](#60-Leaner-search-Program-in-java)**
-61. **[LBinary search Program in java](#61-Binary-search-Program-in-java)**
+50. **[Advantage of Finally in Exception Handling java Program](#51-Advantage-of-Finally-in-Exception-Handling-java-Program)**
+51. **[How to create Interface in java Program](#52-How-to-create-Interface-in-java-Program)**
+52. **[How to print date and time in java Program](#53-How-to-print-date-and-time-in-java-Program)**
+53. **[How to SQL Date in java Program](#54-How-to-SQL-Date-in-java-Program)**
+54. **[How to Date format in java Program](#55-How-to-Date-format-in-java-Program)**
+55. **[How to Generate random number in java Program](#56-How-to-Generate-random-number-in-java-Program)**
+56. **[How perform garbage collection in java Program](#57-How-perform-garbage-collection-in-java-Program)**
+57. **[How to get own IP Address in java Program](#58-How-to-get-own-IP-Address-in-java-Program)**
+58. **[How to open notepad in java Program](#59-How-to-open-notepad-in-java-Program)**
+59. **[Leaner search Program in java](#60-Leaner-search-Program-in-java)**
+60. **[Binary search Program in java](#61-Binary-search-Program-in-java)**
+61. **[Bubble sort Program in java](#62-Bubble-sort-Program-in-java)**
+62. **[How to connect Database using java Program](#62-How-to-connect-Database-using-java-Program)**
+63. **[How to insert data in table using JDBC in java Program](#63-How-to-insert-data-in-table-using-JDBC-in-java-Program)**
+64. **[How to insert image using JDBC in java Program](#64-How-to-insert-image-using-JDBC-in-java-Program)**
+64. **[How to insert image using JDBC in java Program](#64-How-to-insert-image-using-JDBC-in-java-Program)**
+65. **[Print all alphabet using for loop Program in java](#65-Print-all-alphabet-using-for-loop-Program-in-java)**
 
 ---
 
@@ -427,7 +433,38 @@ This repository was created with the intention of helping developers master thei
 
 ---
 
-## 61. Binary search Program in java
+## 60. Binary search Program in java
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 61. Bubble sort Program in java
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 62. How to connect Database using java Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 63. How to insert data in table using JDBC in java Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 64. How to insert image using JDBC in java Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 65. Print all alphabet using for loop Program in java
+
 
 **[⬆ Back to Top](#table-of-contents)**
 
