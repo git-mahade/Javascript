@@ -69,6 +69,7 @@ This repository was created with the intention of helping developers master thei
 58. **[How to get own IP Address in java Program](#58-How-to-get-own-IP-Address-in-java-Program)**
 59. **[How to open notepad in java Program](#59-How-to-open-notepad-in-java-Program)**
 60. **[Leaner search Program in java](#60-Leaner-search-Program-in-java)**
+61. **[LBinary search Program in java](#61-Binary-search-Program-in-java)**
 
 ---
 
@@ -426,7 +427,7 @@ This repository was created with the intention of helping developers master thei
 
 ---
 
-## 60. Leaner search Program in java
+## 61. Binary search Program in java
 
 **[⬆ Back to Top](#table-of-contents)**
 
