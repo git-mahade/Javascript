@@ -46,7 +46,7 @@ This repository was created with the intention of helping developers master thei
 34. **[How to get transpose of matrix in JavaScript Program](#34-How-to-get-transpose-of-matrix-in-JavaScript-Program)**
 35. **[How to compare 2 string in JavaScript Program](#35-How-to-compare-2-string-in-JavaScript-Program)**
 36. **[How to string width with specific char in JavaScript Program](#36-How-to-string-width-with-specific-char-in-JavaScript-Program)**
-37. **[How to use indexOf() in JavaScript Program](<#37-How-to-use-indexOf()-in-JavaScript-Program>)**
+37. **[How to use indexOf() in JavaScript Program](<#37-How-to-use-indexOf()-in-JavaScript-Program)**
 38. **[How to replace string with another string in JavaScript Program](#38-How-to-replace-string-with-another-string-in-JavaScript-Program)**
 39. **[How to split string in JavaScript Program](#39-How-to-split-string-in-JavaScript-Program)**
 40. **[How to remove space in string both end in JavaScript Program](#40-How-to-remove-space-in-string-both-end-in-JavaScript-Program)**
