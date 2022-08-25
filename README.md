@@ -30,17 +30,16 @@ This repository was created with the intention of helping developers master thei
 18. **[Print Star console using Loop](#18-Print-Star-console-using-Loop)**
 19. **[While loop Program in JavaScript](#19-While-loop-Program-in-JavaScript)**
 20. **[Print Reverse number in JavaScript program](#20-Print-Reverse-number-in-JavaScript-program)**
-21. **[While loop using break Program in java](#21-While-loop-using-break-Program-in-java)**
-22. **[While loop using break and continue Program in java](#22-While-loop-using-break-and-continue-Program-in-java)**
-23. **[Print all alphabet using for loop Program in java](#23-Print-all-alphabet-using-for-loop-Program-in-java)**
-24. **[Enhance loop in java Program](#24-Enhance-loop-in-java-Program)**
-25. **[Print Multiplication table Program in java](#25-Print-Multiplication-table-Program-in-java)**
-26. **[Print prime no Program in java](#26-Print-prime-no-Program-in-java)**
-27. **[. Check no is Armstrong or not in java Program](#27-Check-no-is-Armstrong-or-not-in-java-Program)**
-28. **[Print Floyd’s Triangle in java Program](#28-Print-Floyd’s-Triangle-in-java-Program)**
-29. **[Find All substring of string in java Program](#29-Find-All-substring-of-string-in-java-Program)**
-30. **[Print reverse string in java Program](#30-Print-reverse-string-in-java-Program)**
-
+21. **[While loop using break Program in JavaScript](#21-While-loop-using-break-Program-in-JavaScript)**
+22. **[While loop using break and continue Program in JavaScript](#22-While-loop-using-break-and-continue-Program-in-JavaScript)**
+23. **[Print all alphabet using for loop Program in JavaScript](#23-Print-all-alphabet-using-for-loop-Program-in-JavaScript)**
+24. **[Enhance loop in JavaScript Program](#24-Enhance-loop-in-JavaScript-Program)**
+25. **[Print Multiplication table Program in JavaScript](#25-Print-Multiplication-table-Program-in-JavaScript)**
+26. **[Print prime no Program in JavaScript](#26-Print-prime-no-Program-in-JavaScript)**
+27. **[Check no is Armstrong or not in JavaScript Program](#27-Check-no-is-Armstrong-or-not-in-JavaScript-Program)**
+28. **[Print Floyd’s Triangle in JavaScript Program](#28-Print-Floyd’s-Triangle-in-JavaScript-Program)**
+29. **[Find All substring of string in JavaScript Program](#29-Find-All-substring-of-string-in-JavaScript-Program)**
+30. **[Print reverse string in JavaScript Program](#30-Print-reverse-string-in-JavaScript-Program)**
 
 ---
 
@@ -164,61 +163,61 @@ This repository was created with the intention of helping developers master thei
 
 ---
 
-## 21. While loop using break Program in java
+## 21. While loop using break Program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 22. While loop using break Program in java
+## 22. While loop using break Program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 23. Print all alphabet using for loop Program in java
+## 23. Print all alphabet using for loop Program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 24. Enhance loop in java Program
+## 24. Enhance loop in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 25. Print Multiplication table Program in java
+## 25. Print Multiplication table Program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 26. Print prime no Program in java
+## 26. Print prime no Program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 27. Check no is Armstrong or not in java Program
+## 27. Check no is Armstrong or not in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 28. Print Floyd’s Triangle in java Program
+## 28. Print Floyd’s Triangle in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 29. Find All substring of string in java Program
+## 29. Find All substring of string in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 30. Print reverse string in java Program
+## 30. Print reverse string in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
