@@ -57,7 +57,7 @@ This repository was created with the intention of helping developers master thei
 45. **[Difference between Static and Instance method working in java Program](#45-Difference-between-Static-and-Instance-method-working-in-java-Program)**
 46. **[How to create Multiple class in java Program](#46-How-to-create-Multiple-class-in-java-Program)**
 47. **[How to create constructor in java Program](#47-How-to-create-constructor-in-java-Program)**
-48. **[How to create constructor overloading in java Program](#49-How-to-create-constructor-overloading-in-java-Program)**
+48. **[How to create constructor overloading in java Program](#48-How-to-create-constructor-overloading-in-java-Program)**
 49. **[Exception Handling java Program](#49-Exception-Handling-java-Program)**
 50. **[How to throw exception in java Program](#50-How-to-throw-exception-in-java-Program)**
 
