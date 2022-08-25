@@ -59,7 +59,16 @@ This repository was created with the intention of helping developers master thei
 47. **[How to create constructor in java Program](#47-How-to-create-constructor-in-java-Program)**
 48. **[How to create constructor overloading in java Program](#48-How-to-create-constructor-overloading-in-java-Program)**
 49. **[Exception Handling java Program](#49-Exception-Handling-java-Program)**
-50. **[How to throw exception in java Program](#50-How-to-throw-exception-in-java-Program)**
+51. **[Advantage of Finally in Exception Handling java Program](#51-Advantage-of-Finally-in-Exception-Handling-java-Program)**
+52. **[How to create Interface in java Program](#52-How-to-create-Interface-in-java-Program)**
+53. **[How to print date and time in java Program](#53-How-to-print-date-and-time-in-java-Program)**
+54. **[How to SQL Date in java Program](#54-How-to-SQL-Date-in-java-Program)**
+55. **[How to Date format in java Program](#55-How-to-Date-format-in-java-Program)**
+56. **[How to Generate random number in java Program](#56-How-to-Generate-random-number-in-java-Program)**
+57. **[How perform garbage collection in java Program](#57-How-perform-garbage-collection-in-java-Program)**
+58. **[How to get own IP Address in java Program](#58-How-to-get-own-IP-Address-in-java-Program)**
+59. **[How to open notepad in java Program](#59-How-to-open-notepad-in-java-Program)**
+60. **[Leaner search Program in java](#60-Leaner-search-Program-in-java)**
 
 ---
 
@@ -358,6 +367,66 @@ This repository was created with the intention of helping developers master thei
 ---
 
 ## 50. How to throw exception in java Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 51. Advantage of Finally in Exception Handling java Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 52. How to create Interface in java Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 53. How to print date and time in java Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 54. How to SQL Date in java Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 55. How to Date format in java Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 56. How to Generate random number in java Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 57. How perform garbage collection in java Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 58. How to get own IP Address in java Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 59. How to open notepad in java Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 60. Leaner search Program in java
 
 **[⬆ Back to Top](#table-of-contents)**
 
