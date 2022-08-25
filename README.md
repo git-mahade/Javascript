@@ -74,7 +74,6 @@ This repository was created with the intention of helping developers master thei
 62. **[How to connect Database using JavaScript Program](#62-How-to-connect-Database-using-JavaScript-Program)**
 63. **[How to insert data in table using JDBC in JavaScript Program](#63-How-to-insert-data-in-table-using-JDBC-in-JavaScript-Program)**
 64. **[How to insert image using JDBC in JavaScript Program](#64-How-to-insert-image-using-JDBC-in-JavaScript-Program)**
-64. **[How to insert image using JDBC in JavaScript Program](#64-How-to-insert-image-using-JDBC-in-JavaScript-Program)**
 65. **[Print all alphabet using for loop Program in JavaScript](#65-Print-all-alphabet-using-for-loop-Program-in-JavaScript)**
 66. **[How to execute Procedure in JDBC in JavaScript Program](#66-How-to-execute-Procedure-in-JDBC-in-JavaScript-Program)**
 67. **[How to check Regular expression in JavaScript Program](#67-How-to-check-Regular-expression-in-JavaScript-Program)**
@@ -82,6 +81,34 @@ This repository was created with the intention of helping developers master thei
 69. **[How to join thread in JavaScript program](#69-How-to-join-thread-in-JavaScript-program)**
 70. **[How to write data in text file using JavaScript program](#70-How-to-write-data-in-text-file-using-JavaScript-program)**
 71. **[How to read data from text file using JavaScript program](#71-How-to-read-data-from-text-file-using-JavaScript-program)**
+72. **[How to get URL of site using java Programs](#72-How-to-get-URL-of-site-using-java-Programs)**
+73. **[How to get IP address from site URL using java program](#73-How-to-get-IP-address-from-site-URL-using-java-program)**
+74. **[How to create AWT program in java](#74-How-to-create-AWT-program-in-java)**
+75. **[How to add lable in AWT program in java](#75-How-to-add-lable-in-AWT-program-in-java)**
+76. **[How to add text area program in java](#76-How-to-add-text-area-program-in-java)**
+77. **[How to dropdown in AWT program in java](#77-How-to-dropdown-in-AWT-program-in-java)**
+78. **[How to create Swing program in java](#78-How-to-create-Swing-program-in-java)**
+79. **[How to add checkbox in Swing program in java](#79-How-to-add-checkbox-in-Swing-program-in-java)**
+80. **[How to convert string to integer in java program](#80-How-to-convert-string-to-integer-in-java-program)**
+81. **[How to convert integer to string in java program](#81-How-to-convert-integer-to-string-in-java-program)**
+82. **[How to convert string to long in java](#82-How-to-convert-string-to-long-in-java)**
+83. **[How to convert string to float in java](#83-How-to-convert-string-to-float-in-java)**
+84. **[How to convert string to double in java program](#84-How-to-convert-string-to-double-in-java-program)**
+85. **[How to convert string to date in java program](#85-How-to-convert-string-to-date-in-java-program)**
+86. **[How to convert string to date in java program](#85-How-to-convert-string-to-date-in-java-program)**
+87. **[Create ArrayList program in java](#86-Create-ArrayList-program-in-java)**
+88. **[How to create LinkedList program in java](#87-How-to-create-LinkedList-program-in-java)**
+89. **[How to ArrayList using list interface program in java](#88-How-to-ArrayList-using-list-interface-program-in-java)**
+90. **[How to create Hashset program in java](#89-How-to-ArrayList-using-list-interface-program-in-java)**
+91. **[How to create LinkedHashSet program in java](#90-How-to-create-LinkedHashSet-program-in-java)**
+92. **[How to create TreeSet program in java](#91-How-to-create-TreeSet-program-in-java)**
+93. **[How to create PriorityQueue program in java](#92-How-to-create-PriorityQueue-program-in-java)**
+94. **[How to create HashMap using map interface program in java](#93-How-to-create-HashMap-using-map-interface-program-in-java)**
+95. **[How to create LinkedHashMap program in java](#94-How-to-create-LinkedHashMap-program-in-java)**
+96. **[How to create TreeMap program in java](#95-How-to-create-TreeMap-program-in-java)**
+97. **[How to create Hashtable program in java](#96-How-to-create-Hashtable-program-in-java)**
+98. **[How to create Array program in java](#97-How-to-create-Array-program-in-java)**
+99. **[How to create Multidimensional array program in java](#99-How-to-create-Multidimensional-array-program-in-java)**
 
 ---
 
@@ -471,13 +498,11 @@ This repository was created with the intention of helping developers master thei
 
 ## 65. Print all alphabet using for loop Program in JavaScript
 
-
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
 ## 66. How to execute Procedure in JDBC in JavaScript Program
-
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -485,13 +510,11 @@ This repository was created with the intention of helping developers master thei
 
 ## 67. How to check Regular expression in JavaScript Program
 
-
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
 ## 68. How to create Multithreading program in JavaScript
-
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -499,13 +522,11 @@ This repository was created with the intention of helping developers master thei
 
 ## 69. How to join thread in JavaScript program
 
-
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
 ## 70. How to write data in text file using JavaScript program
-
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -513,6 +534,167 @@ This repository was created with the intention of helping developers master thei
 
 ## 71. How to read data from text file using JavaScript program
 
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 72. How to get URL of site using java Programs
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 73. How to get IP address from site URL using java program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 74. How to create AWT program in java
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 75. How to add lable in AWT program in java
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 76. How to add text area program in java
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 77. How to dropdown in AWT program in java
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 78. How to create Swing program in java
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 79. How to add checkbox in Swing program in java
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 80. How to convert string to integer in java program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 81. How to convert integer to string in java program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 82. How to convert string to long in java
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 83. How to convert string to float in java
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 84. How to convert string to double in java program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 85. How to convert string to date in java program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 86. Create ArrayList program in java
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 87. How to create LinkedList program in java
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 88. How to ArrayList using list interface program in java
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 89. How to create Hashset program in java
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 90. How to create LinkedHashSet program in java
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 91. How to create TreeSet program in java
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 92. How to create PriorityQueue program in java
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 93. How to create HashMap using map interface program in java
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 94. How to create LinkedHashMap program in java
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 95. How to create TreeMap program in java
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 96. How to create Hashtable program in java
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 97. How to create Array program in java
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 98. How to create Multidimensional array program in java
 
 **[⬆ Back to Top](#table-of-contents)**
 
