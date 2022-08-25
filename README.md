@@ -99,16 +99,16 @@ This repository was created with the intention of helping developers master thei
 87. **[Create ArrayList program in java](#87-Create-ArrayList-program-in-java)**
 88. **[How to create LinkedList program in java](#88-How-to-create-LinkedList-program-in-java)**
 89. **[How to ArrayList using list interface program in java](#89-How-to-ArrayList-using-list-interface-program-in-java)**
-90. **[How to create Hashset program in java](#90-How-to-ArrayList-using-list-interface-program-in-java)**
-92. **[How to create LinkedHashSet program in java](#90-How-to-create-LinkedHashSet-program-in-java)**
-93. **[How to create TreeSet program in java](#91-How-to-create-TreeSet-program-in-java)**
-94. **[How to create PriorityQueue program in java](#92-How-to-create-PriorityQueue-program-in-java)**
-95. **[How to create HashMap using map interface program in java](#93-How-to-create-HashMap-using-map-interface-program-in-java)**
-96. **[How to create LinkedHashMap program in java](#94-How-to-create-LinkedHashMap-program-in-java)**
-97. **[How to create TreeMap program in java](#95-How-to-create-TreeMap-program-in-java)**
-98. **[How to create Hashtable program in java](#96-How-to-create-Hashtable-program-in-java)**
-99. **[How to create Array program in java](#97-How-to-create-Array-program-in-java)**
-100. **[How to create Multidimensional array program in java](#99-How-to-create-Multidimensional-array-program-in-java)**
+90. **[How to create Hashset program in java](#90-How-to-create-Hashset-program-in-java)**
+91. **[How to create LinkedHashSet program in java](#91-How-to-create-LinkedHashSet-program-in-java)**
+92. **[How to create TreeSet program in java](#92-How-to-create-TreeSet-program-in-java)**
+93. **[How to create PriorityQueue program in java](#93-How-to-create-PriorityQueue-program-in-java)**
+94. **[How to create HashMap using map interface program in java](#94-How-to-create-HashMap-using-map-interface-program-in-java)**
+95. **[How to create LinkedHashMap program in java](#95-How-to-create-LinkedHashMap-program-in-java)**
+96. **[How to create TreeMap program in java](#96-How-to-create-TreeMap-program-in-java)**
+97. **[How to create Hashtable program in java](#97-How-to-create-Hashtable-program-in-java)**
+98. **[How to create Array program in java](#98-How-to-create-Array-program-in-java)**
+99. **[How to create Multidimensional array program in java](#99-How-to-create-Multidimensional-array-program-in-java)**
 
 ---
 
@@ -652,55 +652,55 @@ This repository was created with the intention of helping developers master thei
 
 ---
 
-## 90. How to create LinkedHashSet program in java
+## 91. How to create LinkedHashSet program in java
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 91. How to create TreeSet program in java
+## 92. How to create TreeSet program in java
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 92. How to create PriorityQueue program in java
+## 93. How to create PriorityQueue program in java
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 93. How to create HashMap using map interface program in java
+## 94. How to create HashMap using map interface program in java
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 94. How to create LinkedHashMap program in java
+## 95. How to create LinkedHashMap program in java
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 95. How to create TreeMap program in java
+## 96. How to create TreeMap program in java
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 96. How to create Hashtable program in java
+## 97. How to create Hashtable program in java
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 97. How to create Array program in java
+## 98. How to create Array program in java
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 98. How to create Multidimensional array program in java
+## 99. How to create Multidimensional array program in java
 
 **[⬆ Back to Top](#table-of-contents)**
 
