@@ -533,61 +533,61 @@ This repository was created with the intention of helping developers master thei
 
 ---
 
-## 70. How to write data in text file using JavaScript program
+## 71. How to write data in text file using JavaScript program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 71. How to read data from text file using JavaScript program
+## 72. How to read data from text file using JavaScript program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 72. How to get URL of site using java Programs
+## 73. How to get URL of site using java Programs
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 73. How to get IP address from site URL using java program
+## 74. How to get IP address from site URL using java program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 74. How to create AWT program in java
+## 75. How to create AWT program in java
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 75. How to add lable in AWT program in java
+## 76. How to add lable in AWT program in java
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 76. How to add text area program in java
+## 77. How to add text area program in java
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 77. How to dropdown in AWT program in java
+## 78. How to dropdown in AWT program in java
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 78. How to create Swing program in java
+## 79. How to create Swing program in java
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 79. How to add checkbox in Swing program in java
+## 80. How to add checkbox in Swing program in java
 
 **[⬆ Back to Top](#table-of-contents)**
 
