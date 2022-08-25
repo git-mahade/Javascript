@@ -59,56 +59,57 @@ This repository was created with the intention of helping developers master thei
 47. **[How to create constructor in JavaScript Program](#47-How-to-create-constructor-in-JavaScript-Program)**
 48. **[How to create constructor overloading in JavaScript Program](#48-How-to-create-constructor-overloading-in-JavaScript-Program)**
 49. **[Exception Handling JavaScript Program](#49-Exception-Handling-JavaScript-Program)**
-50. **[Advantage of Finally in Exception Handling JavaScript Program](#51-Advantage-of-Finally-in-Exception-Handling-JavaScript-Program)**
-51. **[How to create Interface in JavaScript Program](#52-How-to-create-Interface-in-JavaScript-Program)**
-52. **[How to print date and time in JavaScript Program](#53-How-to-print-date-and-time-in-JavaScript-Program)**
-53. **[How to SQL Date in JavaScript Program](#54-How-to-SQL-Date-in-JavaScript-Program)**
-54. **[How to Date format in JavaScript Program](#55-How-to-Date-format-in-JavaScript-Program)**
-55. **[How to Generate random number in JavaScript Program](#56-How-to-Generate-random-number-in-JavaScript-Program)**
-56. **[How perform garbage collection in JavaScript Program](#57-How-perform-garbage-collection-in-JavaScript-Program)**
-57. **[How to get own IP Address in JavaScript Program](#58-How-to-get-own-IP-Address-in-JavaScript-Program)**
-58. **[How to open notepad in JavaScript Program](#59-How-to-open-notepad-in-JavaScript-Program)**
-59. **[Leaner search Program in JavaScript](#60-Leaner-search-Program-in-JavaScript)**
-60. **[Binary search Program in JavaScript](#61-Binary-search-Program-in-JavaScript)**
-61. **[Bubble sort Program in JavaScript](#62-Bubble-sort-Program-in-JavaScript)**
-62. **[How to connect Database using JavaScript Program](#62-How-to-connect-Database-using-JavaScript-Program)**
-63. **[How to insert data in table using JDBC in JavaScript Program](#63-How-to-insert-data-in-table-using-JDBC-in-JavaScript-Program)**
-64. **[How to insert image using JDBC in JavaScript Program](#64-How-to-insert-image-using-JDBC-in-JavaScript-Program)**
-65. **[Print all alphabet using for loop Program in JavaScript](#65-Print-all-alphabet-using-for-loop-Program-in-JavaScript)**
-66. **[How to execute Procedure in JDBC in JavaScript Program](#66-How-to-execute-Procedure-in-JDBC-in-JavaScript-Program)**
-67. **[How to check Regular expression in JavaScript Program](#67-How-to-check-Regular-expression-in-JavaScript-Program)**
-68. **[How to create Multithreading program in JavaScript](#68-How-to-create-Multithreading-program-in-JavaScript)**
-69. **[How to join thread in JavaScript program](#69-How-to-join-thread-in-JavaScript-program)**
-70. **[How to write data in text file using JavaScript program](#70-How-to-write-data-in-text-file-using-JavaScript-program)**
-71. **[How to read data from text file using JavaScript program](#71-How-to-read-data-from-text-file-using-JavaScript-program)**
-72. **[How to get URL of site using java Programs](#72-How-to-get-URL-of-site-using-java-Programs)**
-73. **[How to get IP address from site URL using java program](#73-How-to-get-IP-address-from-site-URL-using-java-program)**
-74. **[How to create AWT program in java](#74-How-to-create-AWT-program-in-java)**
-75. **[How to add lable in AWT program in java](#75-How-to-add-lable-in-AWT-program-in-java)**
-76. **[How to add text area program in java](#76-How-to-add-text-area-program-in-java)**
-77. **[How to dropdown in AWT program in java](#77-How-to-dropdown-in-AWT-program-in-java)**
-78. **[How to create Swing program in java](#78-How-to-create-Swing-program-in-java)**
-79. **[How to add checkbox in Swing program in java](#79-How-to-add-checkbox-in-Swing-program-in-java)**
-80. **[How to convert string to integer in java program](#80-How-to-convert-string-to-integer-in-java-program)**
-81. **[How to convert integer to string in java program](#81-How-to-convert-integer-to-string-in-java-program)**
-82. **[How to convert string to long in java](#82-How-to-convert-string-to-long-in-java)**
-83. **[How to convert string to float in java](#83-How-to-convert-string-to-float-in-java)**
-84. **[How to convert string to double in java program](#84-How-to-convert-string-to-double-in-java-program)**
-85. **[How to convert string to date in java program](#85-How-to-convert-string-to-date-in-java-program)**
+50. **[How to throw exception in java Program](#50-How-to-throw-exception-in-java-Program)**
+51. **[Advantage of Finally in Exception Handling JavaScript Program](#51-Advantage-of-Finally-in-Exception-Handling-JavaScript-Program)**
+52. **[How to create Interface in JavaScript Program](#52-How-to-create-Interface-in-JavaScript-Program)**
+53. **[How to print date and time in JavaScript Program](#53-How-to-print-date-and-time-in-JavaScript-Program)**
+54. **[How to SQL Date in JavaScript Program](#54-How-to-SQL-Date-in-JavaScript-Program)**
+55. **[How to Date format in JavaScript Program](#55-How-to-Date-format-in-JavaScript-Program)**
+56. **[How to Generate random number in JavaScript Program](#56-How-to-Generate-random-number-in-JavaScript-Program)**
+57. **[How perform garbage collection in JavaScript Program](#57-How-perform-garbage-collection-in-JavaScript-Program)**
+58. **[How to get own IP Address in JavaScript Program](#58-How-to-get-own-IP-Address-in-JavaScript-Program)**
+59. **[How to open notepad in JavaScript Program](#59-How-to-open-notepad-in-JavaScript-Program)**
+60. **[Leaner search Program in JavaScript](#60-Leaner-search-Program-in-JavaScript)**
+61. **[Binary search Program in JavaScript](#61-Binary-search-Program-in-JavaScript)**
+62. **[Bubble sort Program in JavaScript](#62-Bubble-sort-Program-in-JavaScript)**
+63. **[How to connect Database using JavaScript Program](#62-How-to-connect-Database-using-JavaScript-Program)**
+64. **[How to insert data in table using JDBC in JavaScript Program](#63-How-to-insert-data-in-table-using-JDBC-in-JavaScript-Program)**
+65. **[How to insert image using JDBC in JavaScript Program](#64-How-to-insert-image-using-JDBC-in-JavaScript-Program)**
+66. **[Print all alphabet using for loop Program in JavaScript](#65-Print-all-alphabet-using-for-loop-Program-in-JavaScript)**
+67. **[How to execute Procedure in JDBC in JavaScript Program](#66-How-to-execute-Procedure-in-JDBC-in-JavaScript-Program)**
+68. **[How to check Regular expression in JavaScript Program](#67-How-to-check-Regular-expression-in-JavaScript-Program)**
+69. **[How to create Multithreading program in JavaScript](#68-How-to-create-Multithreading-program-in-JavaScript)**
+70. **[How to join thread in JavaScript program](#69-How-to-join-thread-in-JavaScript-program)**
+71. **[How to write data in text file using JavaScript program](#70-How-to-write-data-in-text-file-using-JavaScript-program)**
+72. **[How to read data from text file using JavaScript program](#71-How-to-read-data-from-text-file-using-JavaScript-program)**
+73. **[How to get URL of site using java Programs](#72-How-to-get-URL-of-site-using-java-Programs)**
+74. **[How to get IP address from site URL using java program](#73-How-to-get-IP-address-from-site-URL-using-java-program)**
+75. **[How to create AWT program in java](#74-How-to-create-AWT-program-in-java)**
+76. **[How to add lable in AWT program in java](#75-How-to-add-lable-in-AWT-program-in-java)**
+77. **[How to add text area program in java](#76-How-to-add-text-area-program-in-java)**
+78. **[How to dropdown in AWT program in java](#77-How-to-dropdown-in-AWT-program-in-java)**
+79. **[How to create Swing program in java](#78-How-to-create-Swing-program-in-java)**
+80. **[How to add checkbox in Swing program in java](#79-How-to-add-checkbox-in-Swing-program-in-java)**
+81. **[How to convert string to integer in java program](#80-How-to-convert-string-to-integer-in-java-program)**
+82. **[How to convert integer to string in java program](#81-How-to-convert-integer-to-string-in-java-program)**
+83. **[How to convert string to long in java](#82-How-to-convert-string-to-long-in-java)**
+84. **[How to convert string to float in java](#83-How-to-convert-string-to-float-in-java)**
+85. **[How to convert string to double in java program](#84-How-to-convert-string-to-double-in-java-program)**
 86. **[How to convert string to date in java program](#85-How-to-convert-string-to-date-in-java-program)**
-87. **[Create ArrayList program in java](#86-Create-ArrayList-program-in-java)**
-88. **[How to create LinkedList program in java](#87-How-to-create-LinkedList-program-in-java)**
-89. **[How to ArrayList using list interface program in java](#88-How-to-ArrayList-using-list-interface-program-in-java)**
-90. **[How to create Hashset program in java](#89-How-to-ArrayList-using-list-interface-program-in-java)**
-91. **[How to create LinkedHashSet program in java](#90-How-to-create-LinkedHashSet-program-in-java)**
-92. **[How to create TreeSet program in java](#91-How-to-create-TreeSet-program-in-java)**
-93. **[How to create PriorityQueue program in java](#92-How-to-create-PriorityQueue-program-in-java)**
-94. **[How to create HashMap using map interface program in java](#93-How-to-create-HashMap-using-map-interface-program-in-java)**
-95. **[How to create LinkedHashMap program in java](#94-How-to-create-LinkedHashMap-program-in-java)**
-96. **[How to create TreeMap program in java](#95-How-to-create-TreeMap-program-in-java)**
-97. **[How to create Hashtable program in java](#96-How-to-create-Hashtable-program-in-java)**
-98. **[How to create Array program in java](#97-How-to-create-Array-program-in-java)**
-99. **[How to create Multidimensional array program in java](#99-How-to-create-Multidimensional-array-program-in-java)**
+87. **[How to convert string to date in java program](#85-How-to-convert-string-to-date-in-java-program)**
+88. **[Create ArrayList program in java](#86-Create-ArrayList-program-in-java)**
+89. **[How to create LinkedList program in java](#87-How-to-create-LinkedList-program-in-java)**
+90. **[How to ArrayList using list interface program in java](#88-How-to-ArrayList-using-list-interface-program-in-java)**
+91. **[How to create Hashset program in java](#89-How-to-ArrayList-using-list-interface-program-in-java)**
+92. **[How to create LinkedHashSet program in java](#90-How-to-create-LinkedHashSet-program-in-java)**
+93. **[How to create TreeSet program in java](#91-How-to-create-TreeSet-program-in-java)**
+94. **[How to create PriorityQueue program in java](#92-How-to-create-PriorityQueue-program-in-java)**
+95. **[How to create HashMap using map interface program in java](#93-How-to-create-HashMap-using-map-interface-program-in-java)**
+96. **[How to create LinkedHashMap program in java](#94-How-to-create-LinkedHashMap-program-in-java)**
+97. **[How to create TreeMap program in java](#95-How-to-create-TreeMap-program-in-java)**
+98. **[How to create Hashtable program in java](#96-How-to-create-Hashtable-program-in-java)**
+99. **[How to create Array program in java](#97-How-to-create-Array-program-in-java)**
+100. **[How to create Multidimensional array program in java](#99-How-to-create-Multidimensional-array-program-in-java)**
 
 ---
 
@@ -190,7 +191,7 @@ This repository was created with the intention of helping developers master thei
 
 ---
 
-## 14. . Find factorial for given no Program in JavaScript
+## 14. Find factorial for given no Program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -238,7 +239,7 @@ This repository was created with the intention of helping developers master thei
 
 ---
 
-## 22. While loop using break Program in JavaScript
+## 22. While loop using break and continue Program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -406,7 +407,7 @@ This repository was created with the intention of helping developers master thei
 
 ---
 
-## 50. How to throw exception in JavaScript Program
+## 50. How to throw exception in java Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
