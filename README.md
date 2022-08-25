@@ -80,16 +80,16 @@ This repository was created with the intention of helping developers master thei
 68. **[How to check Regular expression in JavaScript Program](#68-How-to-check-Regular-expression-in-JavaScript-Program)**
 69. **[How to create Multithreading program in JavaScript](#69-How-to-create-Multithreading-program-in-JavaScript)**
 70. **[How to join thread in JavaScript program](#70-How-to-join-thread-in-JavaScript-program)**
-71. **[How to write data in text file using JavaScript program](#70-How-to-write-data-in-text-file-using-JavaScript-program)**
-72. **[How to read data from text file using JavaScript program](#71-How-to-read-data-from-text-file-using-JavaScript-program)**
-73. **[How to get URL of site using java Programs](#72-How-to-get-URL-of-site-using-java-Programs)**
-74. **[How to get IP address from site URL using java program](#73-How-to-get-IP-address-from-site-URL-using-java-program)**
-75. **[How to create AWT program in java](#74-How-to-create-AWT-program-in-java)**
-76. **[How to add lable in AWT program in java](#75-How-to-add-lable-in-AWT-program-in-java)**
-77. **[How to add text area program in java](#76-How-to-add-text-area-program-in-java)**
-78. **[How to dropdown in AWT program in java](#77-How-to-dropdown-in-AWT-program-in-java)**
-79. **[How to create Swing program in java](#78-How-to-create-Swing-program-in-java)**
-80. **[How to add checkbox in Swing program in java](#79-How-to-add-checkbox-in-Swing-program-in-java)**
+71. **[How to write data in text file using JavaScript program](#71-How-to-write-data-in-text-file-using-JavaScript-program)**
+72. **[How to read data from text file using JavaScript program](#72-How-to-read-data-from-text-file-using-JavaScript-program)**
+73. **[How to get URL of site using java Programs](#73-How-to-get-URL-of-site-using-java-Programs)**
+74. **[How to get IP address from site URL using java program](#74-How-to-get-IP-address-from-site-URL-using-java-program)**
+75. **[How to create AWT program in java](#75-How-to-create-AWT-program-in-java)**
+76. **[How to add lable in AWT program in java](#76-How-to-add-lable-in-AWT-program-in-java)**
+77. **[How to add text area program in java](#77-How-to-add-text-area-program-in-java)**
+78. **[How to dropdown in AWT program in java](#78-How-to-dropdown-in-AWT-program-in-java)**
+79. **[How to create Swing program in java](#79-How-to-create-Swing-program-in-java)**
+80. **[How to add checkbox in Swing program in java](#80-How-to-add-checkbox-in-Swing-program-in-java)**
 81. **[How to convert string to integer in java program](#80-How-to-convert-string-to-integer-in-java-program)**
 82. **[How to convert integer to string in java program](#81-How-to-convert-integer-to-string-in-java-program)**
 83. **[How to convert string to long in java](#82-How-to-convert-string-to-long-in-java)**
