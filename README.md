@@ -74,12 +74,12 @@ This repository was created with the intention of helping developers master thei
 62. **[Bubble sort Program in JavaScript](#62-Bubble-sort-Program-in-JavaScript)**
 63. **[How to connect Database using JavaScript Program](#63-How-to-connect-Database-using-JavaScript-Program)**
 64. **[How to insert data in table using JDBC in JavaScript Program](#64-How-to-insert-data-in-table-using-JDBC-in-JavaScript-Program)**
-65. **[How to insert image using JDBC in JavaScript Program](#64-How-to-insert-image-using-JDBC-in-JavaScript-Program)**
-66. **[Print all alphabet using for loop Program in JavaScript](#65-Print-all-alphabet-using-for-loop-Program-in-JavaScript)**
-67. **[How to execute Procedure in JDBC in JavaScript Program](#66-How-to-execute-Procedure-in-JDBC-in-JavaScript-Program)**
-68. **[How to check Regular expression in JavaScript Program](#67-How-to-check-Regular-expression-in-JavaScript-Program)**
-69. **[How to create Multithreading program in JavaScript](#68-How-to-create-Multithreading-program-in-JavaScript)**
-70. **[How to join thread in JavaScript program](#69-How-to-join-thread-in-JavaScript-program)**
+65. **[How to insert image using JDBC in JavaScript Program](#65-How-to-insert-image-using-JDBC-in-JavaScript-Program)**
+66. **[Print all alphabet using for loop Program in JavaScript](#66-Print-all-alphabet-using-for-loop-Program-in-JavaScript)**
+67. **[How to execute Procedure in JDBC in JavaScript Program](#67-How-to-execute-Procedure-in-JDBC-in-JavaScript-Program)**
+68. **[How to check Regular expression in JavaScript Program](#68-How-to-check-Regular-expression-in-JavaScript-Program)**
+69. **[How to create Multithreading program in JavaScript](#69-How-to-create-Multithreading-program-in-JavaScript)**
+70. **[How to join thread in JavaScript program](#70-How-to-join-thread-in-JavaScript-program)**
 71. **[How to write data in text file using JavaScript program](#70-How-to-write-data-in-text-file-using-JavaScript-program)**
 72. **[How to read data from text file using JavaScript program](#71-How-to-read-data-from-text-file-using-JavaScript-program)**
 73. **[How to get URL of site using java Programs](#72-How-to-get-URL-of-site-using-java-Programs)**
