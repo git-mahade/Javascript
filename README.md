@@ -40,6 +40,21 @@ This repository was created with the intention of helping developers master thei
 28. **[Print Floyd’s Triangle in JavaScript Program](#28-Print-Floyd’s-Triangle-in-JavaScript-Program)**
 29. **[Find All substring of string in JavaScript Program](#29-Find-All-substring-of-string-in-JavaScript-Program)**
 30. **[Print reverse string in JavaScript Program](#30-Print-reverse-string-in-JavaScript-Program)**
+31. **[Check Given No is palindrome or Not in java Program](#31-Check-Given-No-is-palindrome-or-Not-in-java-Program)**
+32. **[How to add two matrix in java Program](#32-How-to-add-two-matrix-in-java-Program)**
+33. **[How to multiply two matrix in java Program](#33-How-to-multiply-two-matrix-in-java-Program)**
+34. **[How to get transpose of matrix in java Program](#34-How-to-get-transpose-of-matrix-in-java-Program)**
+35. **[How to compare 2 string in java Program](#35-How-to-compare-2-string-in-java-Program)**
+36. **[How to string width with specific char in java Program](#36-How-to-string-width-with-specific-char-in-java-Program)**
+37. **[How to use indexOf() in java Program](<#37-How-to-use-indexOf()-in-java-Program>)**
+38. **[How to replace string with another string in java Program](#38-How-to-replace-string-with-another-string-in-java-Program)**
+39. **[How to split string in java Program](#39-How-to-split-string-in-java-Program)**
+40. **[How to remove space in string both end in java Program](#40-How-to-remove-space-in-string-both-end-in-java-Program)**
+41. **[How to convert all char in string lower case in java Program](#41-How-to-convert-all-char-in-string-lower-case-in-java-Program)**
+42. **[How to create method in java Program](#42-How-to-create-method-in-java-Program)**
+43. **[Find Length Concatenate and Replace String in Java Program](#43-Find-Length-Concatenate-and-Replace-String-in-Java-Program)**
+44. **[How Static block working in java Program](#44-How-Static-block-working-in-java-Program)**
+45. **[Difference between Static and Instance method working in java Program](#45-Difference-between-Static-and-Instance-method-working-in-java-Program)**
 
 ---
 
@@ -218,6 +233,96 @@ This repository was created with the intention of helping developers master thei
 ---
 
 ## 30. Print reverse string in JavaScript Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 31. Check Given No is palindrome or Not in java Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 32. How to add two matrix in java Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 33. How to multiply two matrix in java Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 34. How to get transpose of matrix in java Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 35. How to compare 2 string in java Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 36. How to string width with specific char in java Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 37. How to use indexOf() in java Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 38. How to replace string with another string in java Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 39. How to split string in java Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 40. How to remove space in string both end in java Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 41. How to convert all char in string lower case in java Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 42. How to create method in java Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 43. ind Length Concatenate and Replace String in Java Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 44. How Static block working in java Program
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 45. Difference between Static and Instance method working in java Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
