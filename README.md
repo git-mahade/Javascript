@@ -40,42 +40,48 @@ This repository was created with the intention of helping developers master thei
 28. **[Print Floyd’s Triangle in JavaScript Program](#28-Print-Floyd’s-Triangle-in-JavaScript-Program)**
 29. **[Find All substring of string in JavaScript Program](#29-Find-All-substring-of-string-in-JavaScript-Program)**
 30. **[Print reverse string in JavaScript Program](#30-Print-reverse-string-in-JavaScript-Program)**
-31. **[Check Given No is palindrome or Not in java Program](#31-Check-Given-No-is-palindrome-or-Not-in-java-Program)**
-32. **[How to add two matrix in java Program](#32-How-to-add-two-matrix-in-java-Program)**
-33. **[How to multiply two matrix in java Program](#33-How-to-multiply-two-matrix-in-java-Program)**
-34. **[How to get transpose of matrix in java Program](#34-How-to-get-transpose-of-matrix-in-java-Program)**
-35. **[How to compare 2 string in java Program](#35-How-to-compare-2-string-in-java-Program)**
-36. **[How to string width with specific char in java Program](#36-How-to-string-width-with-specific-char-in-java-Program)**
-37. **[How to use indexOf() in java Program](<#37-How-to-use-indexOf()-in-java-Program>)**
-38. **[How to replace string with another string in java Program](#38-How-to-replace-string-with-another-string-in-java-Program)**
-39. **[How to split string in java Program](#39-How-to-split-string-in-java-Program)**
-40. **[How to remove space in string both end in java Program](#40-How-to-remove-space-in-string-both-end-in-java-Program)**
-41. **[How to convert all char in string lower case in java Program](#41-How-to-convert-all-char-in-string-lower-case-in-java-Program)**
-42. **[How to create method in java Program](#42-How-to-create-method-in-java-Program)**
-43. **[Find Length Concatenate and Replace String in Java Program](#43-Find-Length-Concatenate-and-Replace-String-in-Java-Program)**
-44. **[How Static block working in java Program](#44-How-Static-block-working-in-java-Program)**
-45. **[Difference between Static and Instance method working in java Program](#45-Difference-between-Static-and-Instance-method-working-in-java-Program)**
-46. **[How to create Multiple class in java Program](#46-How-to-create-Multiple-class-in-java-Program)**
-47. **[How to create constructor in java Program](#47-How-to-create-constructor-in-java-Program)**
-48. **[How to create constructor overloading in java Program](#48-How-to-create-constructor-overloading-in-java-Program)**
-49. **[Exception Handling java Program](#49-Exception-Handling-java-Program)**
-50. **[Advantage of Finally in Exception Handling java Program](#51-Advantage-of-Finally-in-Exception-Handling-java-Program)**
-51. **[How to create Interface in java Program](#52-How-to-create-Interface-in-java-Program)**
-52. **[How to print date and time in java Program](#53-How-to-print-date-and-time-in-java-Program)**
-53. **[How to SQL Date in java Program](#54-How-to-SQL-Date-in-java-Program)**
-54. **[How to Date format in java Program](#55-How-to-Date-format-in-java-Program)**
-55. **[How to Generate random number in java Program](#56-How-to-Generate-random-number-in-java-Program)**
-56. **[How perform garbage collection in java Program](#57-How-perform-garbage-collection-in-java-Program)**
-57. **[How to get own IP Address in java Program](#58-How-to-get-own-IP-Address-in-java-Program)**
-58. **[How to open notepad in java Program](#59-How-to-open-notepad-in-java-Program)**
-59. **[Leaner search Program in java](#60-Leaner-search-Program-in-java)**
-60. **[Binary search Program in java](#61-Binary-search-Program-in-java)**
-61. **[Bubble sort Program in java](#62-Bubble-sort-Program-in-java)**
-62. **[How to connect Database using java Program](#62-How-to-connect-Database-using-java-Program)**
-63. **[How to insert data in table using JDBC in java Program](#63-How-to-insert-data-in-table-using-JDBC-in-java-Program)**
-64. **[How to insert image using JDBC in java Program](#64-How-to-insert-image-using-JDBC-in-java-Program)**
-64. **[How to insert image using JDBC in java Program](#64-How-to-insert-image-using-JDBC-in-java-Program)**
-65. **[Print all alphabet using for loop Program in java](#65-Print-all-alphabet-using-for-loop-Program-in-java)**
+31. **[Check Given No is palindrome or Not in JavaScript Program](#31-Check-Given-No-is-palindrome-or-Not-in-JavaScript-Program)**
+32. **[How to add two matrix in JavaScript Program](#32-How-to-add-two-matrix-in-JavaScript-Program)**
+33. **[How to multiply two matrix in JavaScript Program](#33-How-to-multiply-two-matrix-in-JavaScript-Program)**
+34. **[How to get transpose of matrix in JavaScript Program](#34-How-to-get-transpose-of-matrix-in-JavaScript-Program)**
+35. **[How to compare 2 string in JavaScript Program](#35-How-to-compare-2-string-in-JavaScript-Program)**
+36. **[How to string width with specific char in JavaScript Program](#36-How-to-string-width-with-specific-char-in-JavaScript-Program)**
+37. **[How to use indexOf() in JavaScript Program](<#37-How-to-use-indexOf()-in-JavaScript-Program>)**
+38. **[How to replace string with another string in JavaScript Program](#38-How-to-replace-string-with-another-string-in-JavaScript-Program)**
+39. **[How to split string in JavaScript Program](#39-How-to-split-string-in-JavaScript-Program)**
+40. **[How to remove space in string both end in JavaScript Program](#40-How-to-remove-space-in-string-both-end-in-JavaScript-Program)**
+41. **[How to convert all char in string lower case in JavaScript Program](#41-How-to-convert-all-char-in-string-lower-case-in-JavaScript-Program)**
+42. **[How to create method in JavaScript Program](#42-How-to-create-method-in-JavaScript-Program)**
+43. **[Find Length Concatenate and Replace String in JavaScript Program](#43-Find-Length-Concatenate-and-Replace-String-in-JavaScript-Program)**
+44. **[How Static block working in JavaScript Program](#44-How-Static-block-working-in-JavaScript-Program)**
+45. **[Difference between Static and Instance method working in JavaScript Program](#45-Difference-between-Static-and-Instance-method-working-in-JavaScript-Program)**
+46. **[How to create Multiple class in JavaScript Program](#46-How-to-create-Multiple-class-in-JavaScript-Program)**
+47. **[How to create constructor in JavaScript Program](#47-How-to-create-constructor-in-JavaScript-Program)**
+48. **[How to create constructor overloading in JavaScript Program](#48-How-to-create-constructor-overloading-in-JavaScript-Program)**
+49. **[Exception Handling JavaScript Program](#49-Exception-Handling-JavaScript-Program)**
+50. **[Advantage of Finally in Exception Handling JavaScript Program](#51-Advantage-of-Finally-in-Exception-Handling-JavaScript-Program)**
+51. **[How to create Interface in JavaScript Program](#52-How-to-create-Interface-in-JavaScript-Program)**
+52. **[How to print date and time in JavaScript Program](#53-How-to-print-date-and-time-in-JavaScript-Program)**
+53. **[How to SQL Date in JavaScript Program](#54-How-to-SQL-Date-in-JavaScript-Program)**
+54. **[How to Date format in JavaScript Program](#55-How-to-Date-format-in-JavaScript-Program)**
+55. **[How to Generate random number in JavaScript Program](#56-How-to-Generate-random-number-in-JavaScript-Program)**
+56. **[How perform garbage collection in JavaScript Program](#57-How-perform-garbage-collection-in-JavaScript-Program)**
+57. **[How to get own IP Address in JavaScript Program](#58-How-to-get-own-IP-Address-in-JavaScript-Program)**
+58. **[How to open notepad in JavaScript Program](#59-How-to-open-notepad-in-JavaScript-Program)**
+59. **[Leaner search Program in JavaScript](#60-Leaner-search-Program-in-JavaScript)**
+60. **[Binary search Program in JavaScript](#61-Binary-search-Program-in-JavaScript)**
+61. **[Bubble sort Program in JavaScript](#62-Bubble-sort-Program-in-JavaScript)**
+62. **[How to connect Database using JavaScript Program](#62-How-to-connect-Database-using-JavaScript-Program)**
+63. **[How to insert data in table using JDBC in JavaScript Program](#63-How-to-insert-data-in-table-using-JDBC-in-JavaScript-Program)**
+64. **[How to insert image using JDBC in JavaScript Program](#64-How-to-insert-image-using-JDBC-in-JavaScript-Program)**
+64. **[How to insert image using JDBC in JavaScript Program](#64-How-to-insert-image-using-JDBC-in-JavaScript-Program)**
+65. **[Print all alphabet using for loop Program in JavaScript](#65-Print-all-alphabet-using-for-loop-Program-in-JavaScript)**
+66. **[How to execute Procedure in JDBC in JavaScript Program](#66-How-to-execute-Procedure-in-JDBC-in-JavaScript-Program)**
+67. **[How to check Regular expression in JavaScript Program](#67-How-to-check-Regular-expression-in-JavaScript-Program)**
+68. **[How to create Multithreading program in JavaScript](#68-How-to-create-Multithreading-program-in-JavaScript)**
+69. **[How to join thread in JavaScript program](#69-How-to-join-thread-in-JavaScript-program)**
+70. **[How to write data in text file using JavaScript program](#70-How-to-write-data-in-text-file-using-JavaScript-program)**
+71. **[How to read data from text file using JavaScript program](#71-How-to-read-data-from-text-file-using-JavaScript-program)**
 
 ---
 
@@ -259,211 +265,253 @@ This repository was created with the intention of helping developers master thei
 
 ---
 
-## 31. Check Given No is palindrome or Not in java Program
+## 31. Check Given No is palindrome or Not in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 32. How to add two matrix in java Program
+## 32. How to add two matrix in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 33. How to multiply two matrix in java Program
+## 33. How to multiply two matrix in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 34. How to get transpose of matrix in java Program
+## 34. How to get transpose of matrix in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 35. How to compare 2 string in java Program
+## 35. How to compare 2 string in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 36. How to string width with specific char in java Program
+## 36. How to string width with specific char in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 37. How to use indexOf() in java Program
+## 37. How to use indexOf() in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 38. How to replace string with another string in java Program
+## 38. How to replace string with another string in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 39. How to split string in java Program
+## 39. How to split string in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 40. How to remove space in string both end in java Program
+## 40. How to remove space in string both end in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 41. How to convert all char in string lower case in java Program
+## 41. How to convert all char in string lower case in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 42. How to create method in java Program
+## 42. How to create method in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 43. Find Length Concatenate and Replace String in Java Program
+## 43. Find Length Concatenate and Replace String in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 44. How Static block working in java Program
+## 44. How Static block working in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 45. Difference between Static and Instance method working in java Program
+## 45. Difference between Static and Instance method working in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 46. How to create Multiple class in java Program
+## 46. How to create Multiple class in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 47. How to create constructor in java Program
+## 47. How to create constructor in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 48. How to create constructor overloading in java Program
+## 48. How to create constructor overloading in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 49. Exception Handling java Program
+## 49. Exception Handling JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 50. How to throw exception in java Program
+## 50. How to throw exception in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 51. Advantage of Finally in Exception Handling java Program
+## 51. Advantage of Finally in Exception Handling JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 52. How to create Interface in java Program
+## 52. How to create Interface in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 53. How to print date and time in java Program
+## 53. How to print date and time in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 54. How to SQL Date in java Program
+## 54. How to SQL Date in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 55. How to Date format in java Program
+## 55. How to Date format in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 56. How to Generate random number in java Program
+## 56. How to Generate random number in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 57. How perform garbage collection in java Program
+## 57. How perform garbage collection in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 58. How to get own IP Address in java Program
+## 58. How to get own IP Address in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 59. How to open notepad in java Program
+## 59. How to open notepad in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 60. Binary search Program in java
+## 60. Binary search Program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 61. Bubble sort Program in java
+## 61. Bubble sort Program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 62. How to connect Database using java Program
+## 62. How to connect Database using JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 63. How to insert data in table using JDBC in java Program
+## 63. How to insert data in table using JDBC in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 64. How to insert image using JDBC in java Program
+## 64. How to insert image using JDBC in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 65. Print all alphabet using for loop Program in java
+## 65. Print all alphabet using for loop Program in JavaScript
+
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 66. How to execute Procedure in JDBC in JavaScript Program
+
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 67. How to check Regular expression in JavaScript Program
+
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 68. How to create Multithreading program in JavaScript
+
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 69. How to join thread in JavaScript program
+
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 70. How to write data in text file using JavaScript program
+
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 71. How to read data from text file using JavaScript program
 
 
 **[⬆ Back to Top](#table-of-contents)**
