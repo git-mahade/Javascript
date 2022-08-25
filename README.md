@@ -467,61 +467,67 @@ This repository was created with the intention of helping developers master thei
 
 ---
 
-## 60. Binary search Program in JavaScript
+## 60. Leaner search Program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 61. Bubble sort Program in JavaScript
+## 61. Binary search Program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 62. How to connect Database using JavaScript Program
+## 62. Bubble sort Program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 63. How to insert data in table using JDBC in JavaScript Program
+## 63. How to connect Database using JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 64. How to insert image using JDBC in JavaScript Program
+## 64. How to insert data in table using JDBC in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 65. Print all alphabet using for loop Program in JavaScript
+## 65. How to insert image using JDBC in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 66. How to execute Procedure in JDBC in JavaScript Program
+## 66. Print all alphabet using for loop Program in JavaScript
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 67. How to check Regular expression in JavaScript Program
+## 67. How to execute Procedure in JDBC in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 68. How to create Multithreading program in JavaScript
+## 68. How to check Regular expression in JavaScript Program
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ---
 
-## 69. How to join thread in JavaScript program
+## 69. How to create Multithreading program in JavaScript
+
+**[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 70. How to join thread in JavaScript program
 
 **[⬆ Back to Top](#table-of-contents)**
 
