@@ -96,10 +96,10 @@ This repository was created with the intention of helping developers master thei
 84. **[How to convert string to float in java](#84-How-to-convert-string-to-float-in-java)**
 85. **[How to convert string to double in java program](#85-How-to-convert-string-to-double-in-java-program)**
 86. **[How to convert string to date in java program](#86-How-to-convert-string-to-date-in-java-program)**
-88. **[Create ArrayList program in java](#88-Create-ArrayList-program-in-java)**
-89. **[How to create LinkedList program in java](#89-How-to-create-LinkedList-program-in-java)**
-90. **[How to ArrayList using list interface program in java](#90-How-to-ArrayList-using-list-interface-program-in-java)**
-91. **[How to create Hashset program in java](#89-How-to-ArrayList-using-list-interface-program-in-java)**
+87. **[Create ArrayList program in java](#87-Create-ArrayList-program-in-java)**
+88. **[How to create LinkedList program in java](#88-How-to-create-LinkedList-program-in-java)**
+89. **[How to ArrayList using list interface program in java](#89-How-to-ArrayList-using-list-interface-program-in-java)**
+90. **[How to create Hashset program in java](#90-How-to-ArrayList-using-list-interface-program-in-java)**
 92. **[How to create LinkedHashSet program in java](#90-How-to-create-LinkedHashSet-program-in-java)**
 93. **[How to create TreeSet program in java](#91-How-to-create-TreeSet-program-in-java)**
 94. **[How to create PriorityQueue program in java](#92-How-to-create-PriorityQueue-program-in-java)**
